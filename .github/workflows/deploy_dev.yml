@@ -21,7 +21,7 @@ jobs:
       env:
         pantheon_repo: '${{ secrets.PANTHEON_REPO }}'
       run: |
-        git remote add $pantheon_repo
+        git remote add pantheon $pantheon_repo
         git push --set-upstream origin master 
         
 
