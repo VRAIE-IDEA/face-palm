@@ -56,4 +56,4 @@ All notable changes specific to pantheon-upstreams/drupal-composer-managed are n
 
 [The associated milestone in GitHub](https://github.com/pantheon-systems/drupal-project/milestone/1?closed=1) provides detailed information about all changes in this update.
 
-Changed face-palm repo to public because there was a 403 error in the gha build.
+Changed face-palm repo to public because there was a 403 error in the gha build
